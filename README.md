@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joshua7t
+- 👋 Hi, I’m Joshua
 - 👀 I’m interested in becoming a full-stack developer
 - 🌱 I’m currently learning music, psychology & english
 - 💞️ I’m looking to collaborate on anything that can help me learn & develop
